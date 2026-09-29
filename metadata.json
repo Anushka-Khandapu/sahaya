@@ -1,0 +1,12 @@
+{
+  "name": "SAHAYA - Offline-First Personal Safety Platform",
+  "description": "A comprehensive personal safety and emergency response web application for women, students, elderly, and travelers with offline-first SOS, location tracking, trusted network, and incident diary.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
